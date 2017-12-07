@@ -1,0 +1,22 @@
+	Having 5.6 years of experience in Information Technology and Traning.
+	Around 3.2 years of extensive experience in Data Integration and Data Warehousing using Qlikview and Informatica technologies.
+	Excellent Knowledge of Data Warehousing.
+	Involved in Requirement gathering & designing QlikView applications.
+	Hands on retrieving of external data (Shared Path, Network drive, SQL, ORACLE etc.) to QlikView Dashboard
+	in terms of QVDs by making connection through ODBC and OLEDB.
+	Experience in creating customized reports by applying Section Access for different clients.
+	Loaded Data into QlikView application from different QVDs, excel files, database and external files
+	Worked with Qlikview to optimize Qlikview performance.
+	Created Drill down reports which give all the details of various transactions like closed transactions, pending approvals, and summary of transactions 
+	 Created QVD’s & updated on timely basis as database updates.
+	Developed SET ANALYSIS to provide custom functionality in Qlikview Applications.
+	As part of Platform support, I have involved in publishing, maintaining the reports in QEMC and Access Point.
+	Develop and Deploy Qlikview Dashboards.
+	Manage daily Qlikview jobs that update QVD files and Dashboards.
+	Expertise and experience in the following areas – ETL design, ETL Performance tuning.
+	Extensive experience in developing strategies for Extraction, Transformation and Loading (ETL)   mechanism using Informatica Power Center 9.X in Windows and UNIX environment.
+	Good Functional and Technical experience in Data Warehousing, Data Modeling, Business Intelligence (BI), Decision Support Systems (DSS) and OLAP, ETL tools, product development and Reports Generation.
+	Worked with multiple transformations such as Source Qualifier, Joiner, Filter, Router, Expression, Lookup, Aggregator, Sorter, Normalizer, Update Strategy, Sequence Generator and Stored Procedure transformations.
+	Hands on experience in identifying and resolving performance bottlenecks in various levels like sources, mappings and sessions. Hands on experience in optimizing SQL scripts and improving performance loading warehouse.
+	Involved in Unit testing.
+
