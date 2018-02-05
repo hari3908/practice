@@ -1,4 +1,4 @@
-	Having 5.6 years of experience in Information Technology and Traning.
+﻿	Having 5.6 years of experience in Information Technology and Traning.
 	Around 3.2 years of extensive experience in Data Integration and Data Warehousing using Qlikview and Informatica technologies.
 	Excellent Knowledge of Data Warehousing.
 	Involved in Requirement gathering & designing QlikView applications.
@@ -19,4 +19,6 @@
 	Worked with multiple transformations such as Source Qualifier, Joiner, Filter, Router, Expression, Lookup, Aggregator, Sorter, Normalizer, Update Strategy, Sequence Generator and Stored Procedure transformations.
 	Hands on experience in identifying and resolving performance bottlenecks in various levels like sources, mappings and sessions. Hands on experience in optimizing SQL scripts and improving performance loading warehouse.
 	Involved in Unit testing.
+
+d1 have made changes
 
